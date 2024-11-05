@@ -1,0 +1,10 @@
+{
+    "env": {
+        "tags": "@default or @direktCayma or @ÖdemeİşlemleriButonPasif"
+      },
+    "urun_adi": "KREDİM GÜVENDE KREDİLİ HAYAT",
+    "belge_gönderim_email": "fatihdemir@agesa.com.tr",
+    "servis_adi": {
+      "sigorta_gecmis_goruntule": "insuranceAccountHistory"
+    }
+}

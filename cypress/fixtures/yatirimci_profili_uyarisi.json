@@ -1,0 +1,17 @@
+{
+  "data": {
+      "investorProfileStatus": false,
+      "activePolicyWithoutProfileSize": 111,
+      "announcementList": {
+          "announceModels": [
+              {
+                  "code": "CC0617",
+                  "message": "Müşterinin 111 sözleşmesinde yatırımcı profili tanımlı değildir."
+              }
+          ]
+      }
+  },
+  "success": true,
+  "error": null,
+  "validations": null
+}

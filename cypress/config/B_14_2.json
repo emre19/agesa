@@ -1,0 +1,18 @@
+{
+  "env": {
+      "tags": "@default or @hayatUrunVar or @BHShayatUrunVar or @odemePeriotAktif or @SigortaGecmisi-prefix-B or @ekPrimBaşarısız or @ekFaydaYok or @birikimDetaylariVar or @isBankasiKartiVar or @AkbankVeIsBankHesapHaric or @KrediKartiVar or @TanimlanacakHesapTumBankalar or @TanimlanacakHesapAkbank or @BHSkapsananTeminatlarKarti or @BHSolanUrunSigortaDetayEkran or @tanımsızÖdemeYöntemiİleTahsilatsızlıkÖde"
+    },
+  "makbuz_adi": "Hayata Yatırım Sigortası Tahsilat Makbuzu",
+  "makbuz_email": "tahaemre.diker@agesa.com.tr",
+  "tekliMakbuz10AdetUyariMesaj": "Tek seferde maksimum 10 adet makbuz gönderilebilmektedir.",
+  "urun_adi": "HAYATA YATIRIM SİG.(BİRİKİM VE KORUMA)",
+  "servis_adi": {
+      "sigorta_gecmis_goruntule": "lifeInsuranceAccountHistory"
+    },
+    "odeme_sekilleri": {
+      "krediKarti": "HERHANGİ BİR KREDİ KARTI GELMELİ",
+      "bankaHesabi": "HERHANGİ BİR HESAP GELMELİ", 
+      "yeni_bankaHesabi_alani": "Var",
+      "yeni_krediKarti_alani": "Var"
+    }
+}

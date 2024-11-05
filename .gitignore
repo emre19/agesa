@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+.env
+cypress/downloads
+cypress/videos
+cypress/screenshots
+cypress/reports
+*.ndjson
+*.html
+.vscode/*
+servis_responslari

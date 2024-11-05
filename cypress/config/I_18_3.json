@@ -1,0 +1,19 @@
+{
+    "env": {
+        "tags": "@default or @caymaTalebi or @finansalDanismanBilgileriVar"
+      },
+    "urun_adi": "HER İHTİMALİN SİGORTASI 6 YILLIK",
+    "belge_gönderim_email": "fatihdemir@agesa.com.tr",
+    "servis_adi": {
+      "sigorta_gecmis_goruntule": "insuranceAccountHistory"
+    },
+    "odeme_sekilleri": {
+      "krediKarti": "HERHANGİ BİR KREDİ KARTI GELMELİ",
+      "bankaHesabi": "HERHANGİ BİR HESAP GELMELİ", 
+      "yeni_bankaHesabi_alani": "Var",
+      "yeni_krediKarti_alani": "Var"
+    },
+    "iptal_talebi_detay_konusu": "Hayat Cayma",
+    "iptal_talebi_konusu": "İkna Görüşmesi",
+    "iptal_talebi_aktivite_tipi": "Talep"
+}

@@ -1,0 +1,15 @@
+{
+  "env": {
+    "tags": "@default or @sadeceAkbankHesap or  @odemeSekliDegisikligi"
+  },
+  "urun_adi": "CİDDİ SAĞLIK RİSKLERİ TEMEL KAPSAM",
+  "servis_adi": {
+      "sigorta_gecmis_goruntule": "lifeInsuranceAccountHistory"
+    },
+    "odeme_sekilleri": {
+      "krediKarti": "HERHANGİ BİR KREDİ KARTI GELMELİ",
+      "bankaHesabi": "HERHANGİ BİR HESAP GELMELİ", 
+      "yeni_bankaHesabi_alani": "Var",
+      "yeni_krediKarti_alani": "Var"
+    }
+}

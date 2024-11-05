@@ -1,0 +1,15 @@
+{
+    "env": {
+        "tags": "@default or @poliçeIptalAçıkVadeYokTanımlıÖdeme or @yenilemeTalebiVazgeçEkFaydalı"
+      },
+    "urun_adi": "AVANTAJ PLUS FERDİ KAZA SİGORTASI",
+    "makbuz_adi": "GERİ ÖDEMELİ HAYAT SİGORTASI TAHSİLAT MAKBUZU",
+    "belge_gönderim_email": "fatihdemir@agesa.com.tr",
+    "police_basim_adi": "İYİ İHTİMALLERİN SİGORTASI SİGORTA POLİÇESİ",
+    "servis_adi": {
+      "sigorta_gecmis_goruntule": "insuranceAccountHistory"
+    },
+    "iptal_talebi_detay_konusu": "Hayat Sigortadan Ayrılma",
+    "iptal_talebi_konusu": "İkna Görüşmesi",
+    "iptal_talebi_aktivite_tipi": "Talep"
+}

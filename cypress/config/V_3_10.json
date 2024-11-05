@@ -1,0 +1,9 @@
+{
+    "env": {
+        "tags": "@default or @teminatTutarGosterimiOlan"
+      },
+    "urun_adi": "KREDİM GÜVENDE KREDİLİ HAYAT",
+    "servis_adi": {
+      "sigorta_gecmis_goruntule": "insuranceAccountHistory"
+    }
+}

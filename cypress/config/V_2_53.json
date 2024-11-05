@@ -1,0 +1,9 @@
+{
+    "env": {
+        "tags": "@default"
+      },
+    "urun_adi": "SÜREKLİ EĞİTİM SİGORTASI (MALULİYETLİ)",
+    "servis_adi": {
+      "sigorta_gecmis_goruntule": "insuranceAccountHistory"
+    }
+}

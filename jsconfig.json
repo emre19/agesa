@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "checkJs": true,
+        "baseUrl": ".",
+        "paths": {
+            "@pages/*": [
+                "./cypress/pages/*"
+            ]
+        }
+    },
+    "include": ["C:/Users/DSK1121381/Desktop/cypress"]
+}

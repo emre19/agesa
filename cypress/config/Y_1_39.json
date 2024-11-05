@@ -1,0 +1,9 @@
+{
+  "env": {
+    "tags": "@yenilemeTalebiVazgeçEkFaydasız or @default or @tumPolicelerdenCikisYapilmis"
+  },
+  "urun_adi": "SİZE ÖZEL HAYAT SİGORTASI",
+  "servis_adi": {
+      "sigorta_gecmis_goruntule": "lifeInsuranceAccountHistory"
+    }
+}

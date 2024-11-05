@@ -1,0 +1,24 @@
+{
+  "env": {
+    "tags": "@default or @ÖdemeİşlemleriButonAktif or @odemePeriotPasif or @yenilemeGeçmişiYok or @teminatTutarGosterimiOlmayan or @ekFaydaVar or @hayatUrunVar or (@poliçeIptalAçıkVade and @talepSayfaPoliceIptal) or @BHSolmayanKapsananTeminatlarKarti or @BHSolmayanUrunSigortaDetayEkran or @tanımlıÖdemeYöntemiİleTahsilatsızlıkÖde"
+  },
+  "urun_adi": "İYİ İHTİMALLERİN SİGORTASI",
+  "makbuz_adi": "GERİ ÖDEMELİ HAYAT SİGORTASI TAHSİLAT MAKBUZU",
+  "belge_gönderim_email": "fatihdemir@agesa.com.tr",
+  "police_basim_adi": "İYİ İHTİMALLERİN SİGORTASI SİGORTA POLİÇESİ",
+  "servis_adi": {
+    "sigorta_gecmis_goruntule": "insuranceAccountHistory"
+  },
+  "iptal_talebi_detay_konusu": "Hayat Sigortadan Ayrılma",
+  "iptal_talebi_konusu": "İkna Görüşmesi",
+  "iptal_talebi_aktivite_tipi": "Talep",
+  "odeme_gunu_opsiyonlari": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31] ,
+  "odeme_sekilleri": {
+    "krediKarti": "HERHANGİ BİR KREDİ KARTI GELMELİ",
+    "bankaHesabi": "HERHANGİ BİR HESAP GELMELİ", 
+    "yeni_bankaHesabi_alani": "Var",
+    "yeni_krediKarti_alani": "Var"
+  }
+}
+
+

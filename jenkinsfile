@@ -1,0 +1,7 @@
+@Library('cypressAutomationMPL@master') _
+MPLPipeline {
+    automationTestMavenGoals = 'npx cypress open'
+    automationTestReportEmails = ''
+    automationTestReportEmailsCC = ''
+    //pipelineCron = '05 06 * * 1-5' 
+}

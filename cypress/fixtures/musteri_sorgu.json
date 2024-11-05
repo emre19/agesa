@@ -1,0 +1,64 @@
+{
+    "data": {
+        "content": [
+            {
+                "identityNumber": "11122064726",
+                "phone": "",
+                "name": "CARDBUSTERS",
+                "surname": "KÖSE",
+                "profilePic": "",
+                "isBes": true,
+                "isLife": true,
+                "isFks": false,
+                "financialAdviser": "",
+                "birthDate": "01-01-1965",
+                "customerNumber": "2022469577",
+                "source": 1,
+                "customerRole": "Sigortalı",
+                "isFitCustomer": false,
+                "insured": true,
+                "payer": false,
+                "yslTms": false
+            },
+            {
+                "identityNumber": "40837907738",
+                "phone": "905365125872",
+                "name": "AYDANUR",
+                "surname": "BÖLÜKBAŞ ÖZTÜRK",
+                "profilePic": "",
+                "isBes": true,
+                "isLife": true,
+                "isFks": false,
+                "financialAdviser": "",
+                "birthDate": "27-09-1985",
+                "customerNumber": "2078939861",
+                "source": 1,
+                "customerRole": "Sigorta Ettiren",
+                "isFitCustomer": false,
+                "insured": false,
+                "payer": true,
+                "yslTms": false
+            }
+        ],
+        "pageable": {
+            "sort": [],
+            "pageNumber": 0,
+            "pageSize": 20,
+            "offset": 0,
+            "unpaged": false,
+            "paged": true
+        },
+        "last": true,
+        "totalPages": 1,
+        "totalElements": 2,
+        "sort": [],
+        "numberOfElements": 2,
+        "first": true,
+        "size": 20,
+        "number": 0,
+        "empty": false
+    },
+    "success": true,
+    "error": null,
+    "validations": null
+}

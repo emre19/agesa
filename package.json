@@ -1,0 +1,51 @@
+{
+  "name": "cy-auto",
+  "version": "1.0.0",
+  "description": "deneme",
+  "main": "cypress.config.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.1",
+    "cypress-if": "^1.12.1",
+    "dayjs": "^1.11.12",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress-mochawesome-reporter": "3.8.2",
+    "cypress-on-fix": "1.0.3",
+    "cypress-real-events": "1.7.2"
+  },
+  "cypress-cucumber-preprocessor": {
+    "filterSpecs": true,
+    "omitFiltered": true,
+    "json": {
+      "enabled": false,
+      "output": "jsonlogs/log.json",
+      "formatter": "cucumber-json-formatter.exe"
+    },
+    "messages": {
+      "enabled": false,
+      "output": "jsonlogs/messages.ndjson"
+    },
+    "html": {
+      "enabled": false
+    },
+    "stepDefinitions": [
+      "[filepath]/**/*.{js,ts}",
+      "[filepath].{js,ts}",
+      "cypress/e2e/step_definitions/*.{js,ts}",
+      "cypress/support/step_definitions/*.{js,ts}",
+      "[filepath]\\***.{js,ts}",
+      "[filepath].{js,ts}",
+      "cypress\\e2e\\step_definitions\\*.{js,ts}"
+    ]
+  },
+  "scripts": {
+    "cypress:run:all": "cypress run --browser chrome",
+    "cypress:run:spec": "cypress run --spec cypress/e2e/features/ozetSayfasi.feature --browser chrome",
+    "cypress:run:tag": "cypress run --browser chrome --headed --no-exit --env tags=@wip"
+  }
+}

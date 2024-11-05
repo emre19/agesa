@@ -1,0 +1,12 @@
+{
+    "env": {
+        "tags": "@default or @odemePeriotPasif or @yenilemeGeçmişiVar or @tumPolicelerdenCikisYapilmis"
+      },
+      "urun_adi": "KOBİ HAYAT SİGORTASI",
+      "makbuz_adi": "HAYAT SİGORTASI TAHSİLAT MAKBUZU",
+    "belge_gönderim_email": "fatihdemir@agesa.com.tr",
+    "servis_adi": {
+      "sigorta_gecmis_goruntule": "insuranceAccountHistory"
+    }
+
+}

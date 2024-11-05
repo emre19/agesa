@@ -1,0 +1,10 @@
+{
+    "env": {
+        "tags": "@default or @ÖdemeİşlemleriButonAktif or @odemePeriotAktif or @tanimliOdemeYontemiVar"
+      },
+      "urun_adi": "FERDİ UNIFLEX DOLAR PLANI",
+      "servis_adi": {
+        "sigorta_gecmis_goruntule": "insuranceAccountHistory"
+      },
+      "odeme_gunu_opsiyonlari": [5,15]  
+}
